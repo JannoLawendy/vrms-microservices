@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 set -e
 
 SPRING_BOOT_VERSION="4.0.2"
